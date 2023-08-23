@@ -1,0 +1,7 @@
+username: Developer55
+password: 121345
+email: Developer782233287@gmail.com
+token: 5eda7e33-f261-4c6f-828e-3f9ac7643097
+url_reg: http://restapi.adequateshop.com/api/authaccount/registration
+url_auth: http://restapi.adequateshop.com/api/authaccount/login
+url_auth1: http://restapi.adequateshop.com/api/users?page1
