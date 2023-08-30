@@ -1,0 +1,22 @@
+2023-08-30 13:54:51 INFO Test 1 starting (API)
+2023-08-30 13:54:53 INFO Test 2 starting (API)
+2023-08-30 13:54:53 INFO ====== WebDriver manager ======
+2023-08-30 13:54:54 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 13:54:54 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 13:54:54 INFO There is no [win64] chromedriver "116.0.5845.140" for browser google-chrome "116.0.5845.140" in cache
+2023-08-30 13:54:54 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 13:54:54 INFO WebDriver version 116.0.5845.96 selected
+2023-08-30 13:54:54 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-08-30 13:54:54 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-08-30 13:54:54 INFO Driver downloading response is 200
+2023-08-30 13:54:55 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 13:54:55 INFO Driver has been saved in cache [C:\Users\natal\.wdm\drivers\chromedriver\win64\116.0.5845.140]
+2023-08-30 13:54:56 INFO Test 1 starting (UI)
+2023-08-30 13:54:58 INFO Test 2 starting (UI)
+2023-08-30 13:55:01 INFO Test 3 starting (UI)
+2023-08-30 13:55:04 INFO Test 4 starting (UI)
+2023-08-30 13:55:08 INFO Test 5 starting (UI)
+2023-08-30 13:55:11 INFO Test 6 starting (UI)
+2023-08-30 13:55:15 INFO Test 7 starting (UI)
+2023-08-30 13:55:19 INFO Get alert text
+2023-08-30 13:55:19 INFO Form successfully submitted
